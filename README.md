@@ -26,7 +26,7 @@ On a final note, this is not my best, but i know this is better enough to show y
 # apk Link
 - [https://i.diawi.com/fwGgYh](https://i.diawi.com/fwGgYh)
 APK is also available in the folder
-- [flutter-apk](build/app/outputs/flutter-apk) install the app-release.apk
+- [flutter-apk](apk_file/app-release.apk) install the app-release.apk
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
