@@ -303,7 +303,7 @@ class _ChatScreenState extends State<ChatScreen> {
     ? Align(
       alignment: Alignment(-1, 0),
       child: ReceivedMessageWidget (
-        content: snapshot['type'] == 'text' ? snapshot['type'] : "",
+        content: snapshot['type'] == 'text' ? snapshot['message'] : "",
         time: dateString,
         isImage: snapshot['type'] != "text" ? true : false,
         imageAddress: snapshot['type'] != 'text'  ? snapshot['photoUrl'] : "",
@@ -312,7 +312,7 @@ class _ChatScreenState extends State<ChatScreen> {
         : Align(
       alignment: Alignment(1, 0),
       child: SendedMessageWidget(
-        content: snapshot['type'] == 'text' ? snapshot['type'] : "",
+        content: snapshot['type'] == 'text' ? snapshot['message'] : "",
         time: dateString,
         isImage: snapshot['type'] != 'text' ? true : false,
         imageAddress: snapshot['type'] != 'text'  ? snapshot['photoUrl'] : "",
