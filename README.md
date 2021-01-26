@@ -24,7 +24,7 @@ I wanted to add a lot of functionality just to build my chat app sills, but the 
 On a final note, this is not my best, but i know this is better enough to show you I can grow with you if am allowed to.
 
 # apk Link
-- [https://i.diawi.com/fwGgYh](https://i.diawi.com/fwGgYh)
+- [https://i.diawi.com/Jf2dSh](https://i.diawi.com/Jf2dSh)![image](apk_file/Jf2dSh.png)
 APK is also available in the folder
 - [flutter-apk](apk_file/app-release.apk) install the app-release.apk
 
