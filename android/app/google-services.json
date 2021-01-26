@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459354738144",
+    "firebase_url": "https://arm-app-3bdc3-default-rtdb.firebaseio.com",
+    "project_id": "arm-app-3bdc3",
+    "storage_bucket": "arm-app-3bdc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459354738144:android:a65f03b23c02078af0ef85",
+        "android_client_info": {
+          "package_name": "com.condelab.arm_flutter_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459354738144-d77409ka9tpddrhbrqeqr9pv8sb90ovf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASCIT6LC6-JoxTm7uT4jxdE3DAa8UHtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459354738144-d77409ka9tpddrhbrqeqr9pv8sb90ovf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
