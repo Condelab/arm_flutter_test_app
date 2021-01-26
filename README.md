@@ -19,9 +19,11 @@ The app appears and sounds easy to build but in actual fact there are a million 
 
 Though I have a solid knowledge of flutter, combination of some widget especially on the chatScreen page has to be done care fully or you runn into render, overflow errors, etc.
 
-I wanted to add a lot of functionality just to build my chat app sills, but the time constraint and the principle of KISS (keep it simple) was ringing deep down.
+I wanted to add a lot of functionality (e.g notifications, emojis, GIFs, facebook and google signin, biometrics login, etc.) just to build my chat app skills, but the time constraint and the principle of KISS (keep it simple) was ringing deep down.
 
-On a final note, this is not my best, but i know this is better enough to show you I can grow with you if am allowed to.
+But even with every time spent on the app, I still had fun.
+
+On a final note, this is not my best, but i know this is better enough to show you I can grow with you if am allowed to. Thanks.
 
 # apk Link
 - [https://i.diawi.com/Jf2dSh](https://i.diawi.com/Jf2dSh)![image](apk_file/Jf2dSh.png)
